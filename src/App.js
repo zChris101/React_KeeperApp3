@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import CreateArea from "./components/CreateArea";
 import Header from "./components/Header";
 import Note from "./components/Note";
-import Footer from "./components/Footer"
+import Footer from "./components/Footer";
+
 
 export default function App() {
 
